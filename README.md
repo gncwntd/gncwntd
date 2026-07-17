@@ -1,8 +1,38 @@
-![Header](./terminator.jpeg)
+<p align="center">
+  <img src="./terminator.jpeg" alt="Header" width="800" style="border-radius: 12px; margin: 20px 0;">
+</p>
+
+<h1 align="center">i'm akif emre genc</h1> 
+
+<h3 align="center">a computer engineering student enthusiastic about programming and software technologies</h3>
+
+<h3 align="center">Connect With Me</h3>
+
+<div align="center">
+
+  <a href="https://www.leetcode.com/u/emregenc">
+    <img src="https://img.shields.io/badge/-LeetCode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/akifemregenc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:emregenc12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://x.com/gncemree_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X">
+  </a>
+
+</div>
+
+<h3 align="center">let’s build the technologies of the future together </h3>
 
 <div style="font-size:5em;">
         
-build future, stay cool 
+---
 
 </div>
 
@@ -49,8 +79,21 @@ build future, stay cool
 <br>
 
 <div align="center">
-  <a href="https://www.leetcode.com/emregenc"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+
+  <a href="https://www.leetcode.com/u/emregenc">
+    <img src="https://img.shields.io/badge/-LeetCode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://www.linkedin.com/in/akifemregenc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+  <a href="https://www.linkedin.com/in/akifemregenc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:emregenc12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://x.com/gncemree_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X">
+  </a>
 
 </div>
