@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <a href="https://www.leetcode.com/u/emregenc">
+  <a href="https://leetcode.com/u/emregenc12345/">
     <img src="https://img.shields.io/badge/-LeetCode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-  <a href="https://www.leetcode.com/u/emregenc">
+  <a href="https://leetcode.com/u/emregenc12345/">
     <img src="https://img.shields.io/badge/-LeetCode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   
